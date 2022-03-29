@@ -7,4 +7,4 @@ while True:
         message="Have a nice day 😁 😊 ",
         timeout=10,
 )
-    sleep(300) #this 300 indicates that this loop will run in each 300 sec i.e:300/60= 5min
+    sleep(3000)  #this 300 indicates that this loop will run in each 300 sec i.e:3000/60= 50min
